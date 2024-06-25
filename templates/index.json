@@ -20,10 +20,20 @@
             "link_text": "",
             "link_url": ""
           }
+        },
+        "slider_gCkaM3": {
+          "type": "slider",
+          "settings": {
+            "slider_text": "Slider 2",
+            "slider_image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
+            "link_text": "Ver mas",
+            "link_url": ""
+          }
         }
       },
       "block_order": [
-        "slider_Lw8MeD"
+        "slider_Lw8MeD",
+        "slider_gCkaM3"
       ],
       "settings": {
         "text": "esto es texto por defecto"
