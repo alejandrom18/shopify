@@ -29,11 +29,21 @@
             "link_text": "Ver mas",
             "link_url": ""
           }
+        },
+        "slider_wkbMAT": {
+          "type": "slider",
+          "settings": {
+            "slider_text": "333",
+            "slider_image": "shopify:\/\/shop_images\/pinecones-on-blue.jpg",
+            "link_text": "Ver mas",
+            "link_url": ""
+          }
         }
       },
       "block_order": [
         "slider_Lw8MeD",
-        "slider_gCkaM3"
+        "slider_gCkaM3",
+        "slider_wkbMAT"
       ],
       "settings": {
         "text": "esto es texto por defecto"
